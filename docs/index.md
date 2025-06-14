@@ -1,7 +1,7 @@
 ---
 title: 応募予定企業一覧
 layout: default
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman　
 ---
 
 <style>
