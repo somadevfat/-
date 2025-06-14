@@ -4,13 +4,6 @@ layout: default
 theme: jekyll-theme-cayman　
 ---
 
-<style>
-/* 表を見やすくする簡易 CSS */
-table { border-collapse: collapse; width: 100%; }
-th, td { border: 1px solid #dee2e6; padding: 8px; }
-th { background: #f8f9fa; position: sticky; top: 0; }
-tr:nth-child(even) { background: #f2f2f2; }
-</style>
 | 評価 | 企業名 | 月給／年収(想定) | 残業 | 年休 | 研修 | リモート | 資格手当・昇給 | 特徴 |
 |--|--|--|--|--|--|--|--|--|
 | ★★★★★ | [Towhy](https://jp.stanby.com/r_8fcfb91f2182bc18436d6ffda8464780) | 23–31 万／318–604 万 | 5h 以下 | 120＋ | 6 か月＋OJT | 85%（自社 7 割） | 5k–20k | 自社開発比率高 |
